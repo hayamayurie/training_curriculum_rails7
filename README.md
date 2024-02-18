@@ -26,3 +26,4 @@ rails gmodel
 rails g controller
 rails routes
 cd
+bundlinstall
