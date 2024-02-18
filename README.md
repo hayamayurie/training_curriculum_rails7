@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 rails gmodel
 rails g controller
+rails routes
