@@ -27,3 +27,4 @@ rails g controller
 rails routes
 cd
 bundlinstall
+rails s
