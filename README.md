@@ -28,3 +28,4 @@ rails routes
 cd
 bundlinstall
 rails s
+devise
