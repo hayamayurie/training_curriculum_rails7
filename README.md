@@ -29,3 +29,4 @@ cd
 bundlinstall
 rails s
 devise
+rails s
