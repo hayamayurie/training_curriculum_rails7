@@ -30,3 +30,4 @@ bundlinstall
 rails s
 devise
 bindingpry
+System.out.println
