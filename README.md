@@ -32,3 +32,4 @@ devise
 bindingpry
 System.out.println();
 int
+String
