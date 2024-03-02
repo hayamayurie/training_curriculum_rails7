@@ -36,3 +36,4 @@ String
 System.out.println
 int
 String
+double
