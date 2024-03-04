@@ -22,19 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-rails gmodel
-rails g controller
-rails routes
-cd
-bundlinstall
-rails s
-devise
-bindingpry
-System.out.println();
-int
-String
-System.out.println
-int
-String
-double
-rails 
